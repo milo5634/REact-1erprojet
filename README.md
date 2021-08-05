@@ -1,2 +1,3 @@
-# REact-1erprojet
-Découverte de react et création d'un site avec l'API "restcountries
+Installer JSON-SERVER : `npm i -g json-server`
+
+Faire tourner le back : `json-server --w src/assets/db.json --port 3003`
